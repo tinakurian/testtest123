@@ -1,6 +1,6 @@
 package controller
 
-import (
+	"github.com/tinakurian/golang-rest-http/app"
 	"github.com/goadesign/goa"
 	"github.com/golang-starters/golang-rest-http/app"
 )
