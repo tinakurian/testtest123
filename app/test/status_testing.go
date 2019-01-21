@@ -10,7 +10,7 @@
 
 package test
 
-import (
+	"github.com/tinakurian/golang-rest-http/app"
 	"bytes"
 	"context"
 	"fmt"
