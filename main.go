@@ -1,6 +1,6 @@
 package main
 
-import (
+	"github.com/tinakurian/golang-rest-http/controller"
 	"flag"
 	"net/http"
 	"os"
